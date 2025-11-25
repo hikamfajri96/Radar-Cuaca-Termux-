@@ -161,6 +161,13 @@ export OPENAI_MODEL="gpt-5.1" # ganti sesuai yang mau lu pake model Ai nya
 
 Simpan CTRL+O ENTER CTRL+X
 
+Isi juga di 
+nano ~/.profile
+
+Isi lagi tokennya kayak diatas
+
+Kemudian simpan lagi bot token, OpenAi, dan chat id nya, terus jalankan ini
+
 chmod 600 ~/.env_cuaca
 source ~/.profile
 
