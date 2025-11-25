@@ -75,6 +75,8 @@ cara menjalankan bisa di lihat di file "Cara Instalasi".
 
 ## Contoh Output Bot Telegram 
 
+**Catatan:** Bot Telegram hanya berfungsi jika ada api key OpenAi.
+
 ![Output 2](./docs/img/Screenshot_2025-11-25-16-55-36-711_org.telegram.plus.png)
 
 ## Donasi Koin DigiByte (Crypto)
