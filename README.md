@@ -76,3 +76,11 @@ cara menjalankan bisa di lihat di file "Cara Instalasi".
 ## Contoh Output Bot Telegram 
 
 ![Output 2](./docs/img/Screenshot_2025-11-25-16-55-36-711_org.telegram.plus.png)
+
+## Donasi Koin DigiByte (Crypto)
+
+**Alamat DigiByte:**
+
+```sh
+DBN1nJxtHcftYNsoxYR7ddNzmnUtFPbjop
+```
