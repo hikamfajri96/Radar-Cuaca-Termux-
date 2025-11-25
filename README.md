@@ -33,6 +33,5 @@ Radar Cuaca Ojol adalah script Python Termux-ready untuk membuat prakiraan cuaca
 1. Buka Termux, jalankan:
    ```sh
    pkg update -y && pkg upgrade -y
-   pkg install python curl jq git -y
-   python -m pip install --upgrade pip
-   python -m pip install requests beautifulsoup4
+   pkg install -y python curl jq git
+   pip install requests beautifulsoup4
