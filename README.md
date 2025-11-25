@@ -68,3 +68,11 @@ pkg install -y ncurses-utils
 ## Selesai.
 
 cara menjalankan bisa di lihat di file "Cara Instalasi".
+
+## Contoh Output Termux
+
+![Output 1](./docs/img/Screenshot_2025-11-23-22-52-48-669_com.termux.png)
+
+## Contoh Output Bot Telegram 
+
+![Output 2](./docs/img/Screenshot_2025-11-25-16-55-36-711_org.telegram.plus.png)
