@@ -5,6 +5,16 @@ Radar Cuaca Ojol adalah script Python Termux-ready untuk membuat prakiraan cuaca
 
 ## Disclaimer: "Data cuaca tidak menjamin keselamatan. Pengguna bertanggung jawab atas keputusan operasional."
 
+## Waktu ideal buat update radar cuaca (default Jabodetabek)
+
+1. Malam (sekitar 21.00–23.00 WIB): cek sekilas. Lihat apakah ada sistem besar dari barat (Sumatera), selatan (Samudera Hindia), atau timur (Jawa bagian timur) yang bakal jalan ke Jabodetabek. Ini cuma “early warning,” bukan keputusan.
+
+2. Pagi besok (06.00–07.00 WIB): ini wajib. Model cuaca paling segar keluar, dan atmosfer mulai kelihatan arahnya.
+
+3. Menjelang siang (11.00–12.00 WIB): ini pengecekan pamungkas sebelum masuk jam rawan (13.00–17.00).
+
+“Cek cuaca malam cuma buat gambaran awal. Keputusan besok tetap harus lihat update pagi jam 06.00–07.00 dan cek ulang menjelang siang. Radar malam bukan ramalan besok.”
+
 ## Fitur Utama
 - Data per-jam (24 jam) dari Open-Meteo
 - Integrasi nowcast BMKG (XML) untuk peringatan lokal
