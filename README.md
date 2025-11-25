@@ -63,6 +63,7 @@ pkg install -y xmlstarlet
 pkg install -y bc
 pkg install -y perl
 pkg install -y ncurses-utils
+pkg install figlet -y
 ```
 
 ## Selesai.
