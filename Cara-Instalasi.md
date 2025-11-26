@@ -79,8 +79,10 @@ kalo mau jalankan fitur lainnya ketikan perintah ini
 paling simpel cari lokasi
 
 ```
-./cuaca_jabodetabek.py --names nama_lokasi #kalo dua kata atau ada spasinya tambahkan tanda kutip di awal dan diakhirnya contoh "Bekasi Barat"
+./cuaca_jabodetabek.py --names nama_lokasi
 ```
+**Catatan:** kalo dua kata atau ada spasinya tambahkan tanda kutip di awal dan diakhirnya contoh "Bekasi Barat"
+
 
 atau seperti ini:
 
